@@ -1,0 +1,7 @@
+This is a simple text file.
+Adding a new line to the file.
+
+Randy
+Weber
+
+My feature is implemented!
